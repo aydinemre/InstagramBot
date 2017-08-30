@@ -1,2 +1,2 @@
 # InstagramBot
-This application creates for SoftTech Hackathon Instagram Award
+This application created for SoftTech 2017 Hackathon Instagram Award
